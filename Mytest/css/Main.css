@@ -1,0 +1,110 @@
+.table1{
+	width: 180px;
+	height: 120px;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+.table1 tr td{
+	width: 60px;
+	height: 60px;
+	text-align: center;
+}
+
+.table2{
+	width: 50px;
+	height: 100px;
+	position: absolute;
+	right: 14px;
+	top: 4px;
+	border: #2AC845 1px solid;
+}
+
+.table2 tr td{
+	width: 50px;
+	height: 50px;
+	border: white 3px solid;
+	background: #929292;
+}
+
+.table2 tr td:active{
+	width: 50px;
+	height: 50px;
+	border: white 3px solid;
+	background: #797979; 
+}
+
+.table3{
+	width: 140px;
+	height: 140px;
+	position: absolute;
+	right: 15px;
+	bottom: 4px;
+}
+.table3 tr td{
+	width: 70px;
+	height: 70px;
+}
+
+.td1{
+	background-image: url(../GamePic/btn1.png);
+	background-size: 60px 60px;
+}
+.td1:active{
+	background-image: url(../GamePic/btn1.png);
+	background-size: 58px 58px;
+}
+
+.td2{
+	background-image: url(../GamePic/btn2.png);
+	background-size: 60px 60px;
+}
+.td2:active{
+	background-image: url(../GamePic/btn2.png);
+	background-size: 58px 58px;
+}
+
+.td3{
+	background-image: url(../GamePic/btn3.png);
+	background-size: 60px 60px;
+}
+.td3:active{
+	background-image: url(../GamePic/btn3.png);
+	background-size: 58px 58px;
+}
+
+.td4{
+	background-image: url(../GamePic/btn4.png);
+	background-size: 60px 60px;
+}
+.td4:active{
+	background-image: url(../GamePic/btn4.png);
+	background-size: 58px 58px;
+}
+
+.td7{
+	background-image: url(../GamePic/btn1.png);
+	background-size: 70px 70px;
+}
+.td7:active{
+	background-image: url(../GamePic/btn1.png);
+	background-size: 68px 68px;
+}
+
+.td8{
+	background-image: url(../GamePic/btn4.png);
+	background-size: 70px 70px;
+}
+.td8:active{
+	background-image: url(../GamePic/btn4.png);
+	background-size: 68px 68px;
+}
+
+.td9{
+	background-image: url(../GamePic/btn5.png);
+	background-size: 70px 70px;
+}
+.td9:active{
+	background-image: url(../GamePic/btn5.png);
+	background-size: 68px 68px;
+}
